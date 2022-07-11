@@ -27,3 +27,6 @@
 - `GetTransformationMatrix.m`: the function of calculating trans matrix from the VICON data
 - `Trans_ROS.m`: script for publishing data to ROS topic
 - `Transformation.m`: script for understanding the relation between hand frame, tracker frame, and target frame 
+
+## Motion Capture of Hand using Vicon Camera System
+![](https://github.com/Shubham-2302/Control-daVinci-Robot-via-Motion-Capture/blob/main/Motion-Capture-of-Hand.gif)
