@@ -30,3 +30,6 @@
 
 ## Motion Capture of Hand using Vicon Camera System
 ![](https://github.com/Shubham-2302/Control-daVinci-Robot-via-Motion-Capture/blob/main/Motion-Capture-of-Hand.gif)
+
+##Replicating hand motion using matlab
+![](https://github.com/Shubham-2302/Control-daVinci-Robot-via-Motion-Capture/blob/main/matlab%20replication%20of%20hand%20movement.gif)
